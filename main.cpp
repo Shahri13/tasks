@@ -141,32 +141,7 @@ int main() {
  cout<<"d_a= "<<disc_a<<endl;
  cout<<"f_p= "<<final_p<<endl; */
  
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    return 0;
+ return 0;
 }
 // TIP See CLion help at <a
 // href="https://www.jetbrains.com/help/clion/">jetbrains.com/help/clion/</a>.
